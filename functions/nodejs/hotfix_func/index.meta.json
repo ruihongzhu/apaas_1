@@ -1,0 +1,16 @@
+{
+  "apiID": "package_4ed43e__c__function_aadgpio2jf6ai",
+  "apiName": "hotfix_func",
+  "label": {
+    "zh_CN": "hotfix_func",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
